@@ -1,12 +1,15 @@
 [![](https://visitcount.itsvg.in/api?id=deiv44&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 👋 Hi, I’m Keilizon-Deiv  
-A passionate and aspiring software developer who loves crafting creative and efficient solutions to real-world problems.
+<div align="center">Aspiring software developer passionate about crafting innovative solutions.</div>
+
+
 ---
 
 - 🎓 Currently pursuing a Bachelor’s degree in Information Technology at [PHINMA University of Pangasinan.](https://www.facebook.com/phinmaupang)
 - 📫 How to reach me [kede,leones.up@phinmaed.com](kede,leones.up@phinmaed.com)
 - 🌱 I’m currently learning C# for GameDev and Flutter(Dart) MobileDev
+
 ---
 
 ## ✨ Interests & Goals  
