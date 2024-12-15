@@ -1,17 +1,12 @@
 # 👋 Hi, I’m Keilizon-Deiv  
 A passionate and aspiring software developer who loves crafting creative and efficient solutions to real-world problems.
-
+- 🎓 Currently pursuing a Bachelor’s degree in Information Technology at [PHINMA University of Pangasinan.](https://www.facebook.com/phinmaupang)
 ---
 
 ## 🌟 What I Do  
 - 🌐 Building impactful **web** and **mobile applications**  
 - 🔍 Exploring **AI**, **Blockchain**, and **Open Source Projects**  
 - 💻 Writing clean, maintainable, and scalable **code**  
-
----
-
-## 🚀 My Mission  
-I strive to **learn**, **grow**, and **contribute** to the tech community by creating software that **empowers people** and **drives innovation**.
 
 ---
 
