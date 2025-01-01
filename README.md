@@ -13,9 +13,9 @@
 ---
 
 ## ✨ Interests & Goals  
-- 📚 Constantly learning **new technologies** and enhancing my skills  
-- 🤝 Collaborating on meaningful **open-source projects**  
-- 🌱 Aspiring to become a **full-stack developer** or a **specialist** in emerging tech fields  
+- 📚 Constantly learning new technologies and enhancing my skills  
+- 🤝 Collaborating on meaningful open-source projects  
+- 🌱 Aspiring to become a **Software developer** or a **specialist** in emerging tech fields  
 
 ---
 
