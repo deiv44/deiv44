@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{deiv44}/count.svg)
+![](https://komarev.com/ghpvc/?deiv44=your-github-deiv44&color=green)
 
 # 👋 Hi, I’m Keilizon-Deiv  
 <div align="center">Aspiring software developer passionate about making innovative solutions.</div>
