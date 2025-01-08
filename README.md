@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?deiv44=your-github-deiv44&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deiv44&label=Profile%20views&color=0e75b6&style=flat" alt="deiv44" /> </p>
 
 # 👋 Hi, I’m Keilizon-Deiv  
 <div align="center">Aspiring software developer passionate about making innovative solutions.</div>
