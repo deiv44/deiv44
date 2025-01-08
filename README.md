@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=deiv44&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{deiv44}/count.svg)
 
 # 👋 Hi, I’m Keilizon-Deiv  
 <div align="center">Aspiring software developer passionate about making innovative solutions.</div>
